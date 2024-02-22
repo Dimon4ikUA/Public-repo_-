@@ -5,3 +5,6 @@ gid add . - файл потрапляє в стейдж(контроль гіт)
 git status
 git commit -m "comment here"
 git log
+
+
+111111111111
